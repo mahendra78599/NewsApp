@@ -1,0 +1,9 @@
+ 
+->React component Lifecycle.
+Daigram:- https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
+Mounting - Birth of your component
+Update - Growth of your component
+Unmount - Death of your component
+
+

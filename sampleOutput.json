@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Disney+ terms prevent allergy death lawsuit, Disney says",
+      "description": "The entertainment giant says the terms of a free trial prevent it from being sued for wrongful death.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jl0ekjr0go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fe77/live/0358fd10-5a28-11ef-9d2d-89abc1f1e271.jpg",
+      "publishedAt": "2024-08-14T12:52:19.7348057Z",
+      "content": "Mr Piccolo alleges that the restaurant at Disney World - in Orlando, Florida - that he and his wife dined at did not take enough care over her severe allergies to dairy and nuts, despite being repeat… [+913 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US officer charged with fatally shooting pregnant woman",
+      "description": "The charges stem from the police shooting of Ta'Kiya Young, 21, last August in a suburb of Columbus, Ohio.",
+      "url": "https://www.bbc.co.uk/news/articles/cr40207zvd6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6bae/live/da8037e0-5a0f-11ef-b2d2-cdb23d5d7c5b.jpg",
+      "publishedAt": "2024-08-14T11:37:20.9853155Z",
+      "content": "Responding to the indictment, Blendon Township Police Chief John Belford said the force was immediately beginning a disciplinary process, in which it would review the facts and then decide the best c… [+1104 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump attacks Harris over US border policing – was it her job?",
+      "description": "Critics call the vice-president a \"failed border tsar\" - but supporters say that was not her mission.",
+      "url": "https://www.bbc.co.uk/news/articles/c3gdjjlydp4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5796/live/b58d8ee0-5025-11ef-894a-b30f1ca6afb0.jpg",
+      "publishedAt": "2024-08-14T10:37:26.5468668Z",
+      "content": "Tsar or otherwise, the job was a daunting, thankless task.\r\nSuccessfully dealing with decades of underinvestment and the regions deep-seated economic and political strife would require huge amounts o… [+2907 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Two polar bears kill Arctic Canadian worker in rare attack",
+      "description": "The person who was killed worked at a remote radar site in Canada's Arctic region.",
+      "url": "https://www.bbc.co.uk/news/articles/cgq20qd59yyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7c5b/live/076475d0-59bd-11ef-9da7-0986401249df.jpg",
+      "publishedAt": "2024-08-14T10:37:23.2664328Z",
+      "content": "Two polar bears killed a worker at a remote Arctic radar station in Canada's northern Nunavut territory, prompting an investigation into the rare fatal attack.\r\nThe employee, who has not been named, … [+1926 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Skai Jackson: Disney Channel star arrested at Universal Studios",
+      "description": "Skai Jackson, known for her role as Zuri Ross in the sitcom Jessie, was held at Universal Studios.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gzd87w6n0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34cf/live/8b18f560-5a10-11ef-9599-994cc2b5f394.jpg",
+      "publishedAt": "2024-08-14T10:22:15.0163257Z",
+      "content": "A spokesperson for the Sheriff's Department said Miss Jackson was taken to a police station in West Hollywood for booking.\r\nPolice say she was involved in a \"domestic incident\" and that she was the \"… [+377 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Lifetimes: Katy Perry under Spain environmental investigation",
+      "description": "Lifetimes: Katy Perry under Spain environmental investigation",
+      "url": "https://www.bbc.co.uk/news/articles/c20411z4q34o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6222/live/f53bdaf0-5a0d-11ef-997c-711b7066309d.jpg",
+      "publishedAt": "2024-08-14T08:07:15.4529309Z",
+      "content": "Officials stressed that Katy Perry was not under investigation for what it called \"crimes against the environment\", as filming can be authorised in the area.\r\nThe environment department of the Balear… [+1109 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "NZ police race to recover meth-laced sweets distributed by charity",
+      "description": "Police are racing to recover the sweets, which may have been distributed to up to 400 people.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0r5nkyyyeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d49a/live/a22a4d90-59ec-11ef-a1e0-f9297638b567.jpg",
+      "publishedAt": "2024-08-14T07:37:10.2660876Z",
+      "content": "Police have asked people that have sweets wrapped in brand Rinda's yellow pineapple flavour packaging to contact them immediately.\r\n\"It's vital the public are aware of these lollies and the hazard th… [+1877 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US soldier pleads guilty to selling military secrets to China",
+      "description": "Sgt Korbein Schultz was allegedly paid $42,000 in exchange for dozens of sensitive security data.",
+      "url": "https://www.bbc.co.uk/news/articles/c79w810e38no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a908/live/43eae210-59ee-11ef-aa95-4f5c16be3e9a.png",
+      "publishedAt": "2024-08-14T06:52:17.0312236Z",
+      "content": "Sgt Schultz, who held a security clearance to access top secret information, conspired to collect data with someone whom he believed to be living in Hong Kong, according to court documents.\r\nThe purp… [+1307 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "British-Australian pianist's show cancelled over Gaza remarks",
+      "description": "Jayson Gillham dedicated a piece of music to journalists killed in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/cn02jd0n9d2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc8d/live/ad0f00d0-59e1-11ef-bb64-15bd2e309174.jpg",
+      "publishedAt": "2024-08-14T03:37:12.906479Z",
+      "content": "Gillham - who is billed on the MSO website as \"as one of the finest pianists of his generation\" - was born in Australia but lives in the UK.\r\nAt the concert at the Iwaki Auditorium on Sunday, he perf… [+2169 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kolkata doctor's rape and murder in hospital alarm India",
+      "description": "The rape and murder of a female doctor in India highlight the violence against healthcare workers.",
+      "url": "https://www.bbc.co.uk/news/articles/c93pqq9r5n4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b64/live/b9fa9960-589e-11ef-aebc-6de4d31bf5cd.jpg",
+      "publishedAt": "2024-08-14T03:07:12.8444767Z",
+      "content": "Things have worsened over the years, says Saraswati Datta Bodhak, a pharmacologist at a government hospital in West Bengal's Bankura district. \"Both my daughters are young doctors and they tell me th… [+1197 chars]"
+    }
+  ]
+}
